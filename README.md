@@ -1,1 +1,1 @@
-# GITHUB  v2
+# GITHUB "GT-2 <message>"
