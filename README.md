@@ -1,1 +1,1 @@
-# GITHUB "GT-2 <message>"
+# Este el el archivo de licencia de nuestro proyecto
